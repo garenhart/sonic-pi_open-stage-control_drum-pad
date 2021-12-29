@@ -42,7 +42,7 @@
     "tabs": [
       {
         "type": "tab",
-        "id": "main_controls",
+        "id": "drum_pad",
         "visible": true,
         "interaction": true,
         "comments": "",
@@ -60,7 +60,7 @@
         "scroll": true,
         "innerPadding": true,
         "verticalTabs": false,
-        "label": "auto",
+        "label": "drum pad",
         "variables": "@{parent.variables}",
         "traversing": false,
         "value": "",
@@ -618,22 +618,6 @@
                   }
                 ],
                 "tabs": []
-              },
-              {
-                "type": "variable",
-                "id": "drums_modified",
-                "comments": "true if any of the drum beats are modified since last update",
-                "value": false,
-                "default": false,
-                "linkId": "",
-                "address": "auto",
-                "preArgs": "",
-                "typeTags": "",
-                "decimals": 2,
-                "target": "",
-                "ignoreDefaults": false,
-                "bypass": false,
-                "script": ""
               },
               {
                 "type": "variable",
