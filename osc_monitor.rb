@@ -2,7 +2,8 @@
 # osc_monitor.rb
 # drum pad monitor/player
 # Sonic Pi - Open Stage Control (poc)
-####################################3#
+# author: Garen H.
+######################################
 
 use_debug false
 use_bpm 30
